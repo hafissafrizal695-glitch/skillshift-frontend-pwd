@@ -1077,6 +1077,11 @@ main {
   padding-top: 88px;
 }
 
+/* Content wrapper spacing below fixed navbar */
+.animate-fade-in {
+  padding-top: 88px;
+}
+
 .filter-dropdown-container {
   z-index: auto !important;
   position: relative !important;
